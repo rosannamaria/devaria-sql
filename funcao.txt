@@ -1,1 +1,2 @@
 1 - Função de cadastrar cliente;
+2 - Função de cadastrar produtos;
